@@ -35,7 +35,7 @@ This github repository contains links/tools that a penetration tester can use in
 | [Hackertarget](https://hackertarget.com/reverse-dns-lookup/)   | Reverse DNS Lookup | 
 | [natlas.io](https://natlas.io/)   | Search Engine | 
 | [Robtex](https://www.robtex.com/)   | Research of IP numbers, Domain names, etc | 
-| mxtoolbox[](https://mxtoolbox.com/)   | MX Lookup Tool | 
+| [mxtoolbox](https://mxtoolbox.com/)   | MX Lookup Tool | 
 | [Ripe DB](https://apps.db.ripe.net/)   | Database of Internet resource information | 
 | [Mail-tester](https://www.mail-tester.com/)   | Test the Spammyness of your Emails | 
 | [Amass](https://github.com/OWASP/Amass)   | Network mapping, SubDomain Finder | 
