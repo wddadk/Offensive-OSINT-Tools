@@ -17,7 +17,7 @@ This github repository contains links/tools that a penetration tester can use in
 | [Ahmia.fi](https://ahmia.fi/)   | Searches hidden services on the Tor network | 
 | [Intelx.io](https://intelx.io/)   | Intelligence | 
 | [Securitytrails](https://securitytrails.com/)   | Intelligence | 
-| [ti.defender.microsoft.com/](https://ti.defender.microsoft.com/)   | Intelligence | 
+| [ti.defender.microsoft](https://ti.defender.microsoft.com/)   | Intelligence | 
 | [Alienvault](https://otx.alienvault.com/)   | Intelligence | 
 | [publicwww](https://publicwww.com/)   | Source Code Search Engine | 
 | [bgp.he.net](https://bgp.he.net/)   | Network Info | 
