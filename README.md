@@ -1,6 +1,6 @@
 ## OSINT Tools
 
-This github repository contains links/tools that a penetration tester can use in his work. Some of the sites included might require registration or offer more data for $$$, but you should be able to get at least a portion of the available information for no cost. Contributing is welcome
+This github repository contains links/tools that a cybersec specialist can use in his work. Some of the sites included might require registration or offer more data for $$$, but you should be able to get at least a portion of the available information for no cost. Contributing is welcome
 
 |Link        | Description           |
 |:-------------:|:------------:| 
@@ -15,6 +15,7 @@ This github repository contains links/tools that a penetration tester can use in
 | [Crt.sh](https://crt.sh/)   | SubDomain Finder | 
 | [DnsDumpster](https://dnsdumpster.com/)   | SubDomain Finder | 
 | [VirusTotal](https://www.virustotal.com/gui/home/search) | SubDomain Finder |
+| [phonebook](https://phonebook.cz/) | SubDomain, Emails, URLs Finder  |
 | [Ahmia.fi](https://ahmia.fi/)   | Searches hidden services on the Tor network | 
 | [Intelx.io](https://intelx.io/)   | Intelligence | 
 | [Securitytrails](https://securitytrails.com/)   | Intelligence | 
@@ -49,4 +50,6 @@ This github repository contains links/tools that a penetration tester can use in
 | [Search ](https://github.com/pbkompasz/search) | Custom queries in Google |
 | [OSINT-Search](https://github.com/am0nt31r0/OSINT-Search) | Script that searching public data | 
 | [Snoop](https://github.com/snooppr/snoop) | Tools to search for nicknames | 
+| [Spiderfoot](https://github.com/smicallef/spiderfoot) | SubDomain, Emails, URLs Finder |
+| [theHarvester](https://github.com/laramies/theHarvester) | SubDomain, Emails, Names Finder |
 | [Recruitin](https://recruitin.net/) |Compiles Google dorks to search on LinkedIn, Dribbble, GitHub, Xing, StackOverflow, Twitter|
