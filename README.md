@@ -10,6 +10,7 @@ This github repository contains links/tools that a cybersec specialist can use i
 | [ZoomEye](https://www.zoomeye.org/)   | Search Engine | 
 | [Onyphe](https://onyphe.io/)   | Search Engine | 
 | [Fofa](https://fofa.info/) | Search Engine |
+| [binaryedge](https://app.binaryedge.io/) | Search Engine |
 | [Hunter.io](https://hunter.io/)   | Email address finder | 
 | [Grep.app](https://grep.app/)   | GitHub Dorks | 
 | [Searchcode](https://searchcode.com/)   | Search code on different sites  | 
