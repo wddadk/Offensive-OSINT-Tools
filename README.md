@@ -7,7 +7,7 @@ This github repository contains links/tools that a cybersec specialist can use i
 | [Censys](https://censys.io/)   |Search Engine| 
 | [Shodan](https://www.shodan.io/)     |  Search Engine |
 | [viz.greynoise.io](https://viz.greynoise.io/)  | Search Engine |
-| [ZoomEye](https://zoomeye.org/)   | Search Engine | 
+| [ZoomEye](https://www.zoomeye.org/)   | Search Engine | 
 | [Onyphe](https://onyphe.io/)   | Search Engine | 
 | [Fofa](https://fofa.info/) | Search Engine |
 | [Hunter.io](https://hunter.io/)   | Email address finder | 
