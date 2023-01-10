@@ -15,6 +15,7 @@ This github repository contains links/tools that a cybersec specialist can use i
 | [Grep.app](https://grep.app/)   | GitHub Dorks | 
 | [Searchcode](https://searchcode.com/)   | Search code on different sites  | 
 | [Crt.sh](https://crt.sh/)   | SubDomain Finder | 
+| [shrewdeye.app](https://shrewdeye.app)  | SubDomain, URL Finder |
 | [DnsDumpster](https://dnsdumpster.com/)   | SubDomain Finder | 
 | [VirusTotal](https://www.virustotal.com/gui/home/search) | SubDomain Finder |
 | [phonebook](https://phonebook.cz/) | SubDomain, Emails, URLs Finder  |
