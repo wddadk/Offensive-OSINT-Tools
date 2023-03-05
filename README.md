@@ -22,6 +22,7 @@ This github repository contains links/tools that a cybersec specialist can use i
 | [DnsDumpster](https://dnsdumpster.com/)   | SubDomain Finder | 
 | [VirusTotal](https://www.virustotal.com/gui/home/search) | SubDomain Finder |
 | [phonebook](https://phonebook.cz/) | SubDomain, Emails, URLs Finder  |
+| [gau](https://github.com/lc/gau) | URLs Finder |
 | [Ahmia.fi](https://ahmia.fi/)   | Searches hidden services on the Tor network | 
 | [Intelx.io](https://intelx.io/)   | Intelligence | 
 | [Securitytrails](https://securitytrails.com/)   | Intelligence | 
