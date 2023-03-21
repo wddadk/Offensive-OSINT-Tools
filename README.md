@@ -12,6 +12,8 @@ This github repository contains links/tools that a cybersec specialist can use i
 | [Fofa](https://fofa.info/) | Search Engine |
 | [binaryedge](https://app.binaryedge.io/) | Search Engine |
 | [fullhunt.io](https://fullhunt.io/) | Search Engine |
+| [netlas.io](https://app.netlas.io/) | Search Engine |
+| [quake.360.net](https://quake.360.net/quake/#/index) | Search Engine |
 | [Hunter.io](https://hunter.io/)   | Email address finder | 
 | [Grep.app](https://grep.app/)   | GitHub Dorks | 
 | [Searchcode](https://searchcode.com/)   | Search code on different sites  | 
@@ -27,6 +29,7 @@ This github repository contains links/tools that a cybersec specialist can use i
 | [Intelx.io](https://intelx.io/)   | Intelligence | 
 | [Securitytrails](https://securitytrails.com/)   | Intelligence | 
 | [ti.defender.microsoft](https://ti.defender.microsoft.com/)   | Intelligence | 
+| [pulsedive.com](https://pulsedive.com/)   | Intelligence |
 | [Alienvault](https://otx.alienvault.com/)   | Intelligence | 
 | [publicwww](https://publicwww.com/)   | Source Code Search Engine | 
 | [bgp.he.net](https://bgp.he.net/)   | Network Info | 
