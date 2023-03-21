@@ -59,6 +59,11 @@ This github repository contains links/tools that a cybersec specialist can use i
 | [Search ](https://github.com/pbkompasz/search) | Custom queries in Google |
 | [OSINT-Search](https://github.com/am0nt31r0/OSINT-Search) | Script that searching public data | 
 | [Snoop](https://github.com/snooppr/snoop) | Tools to search for nicknames | 
+| [blackbird-osin](https://blackbird-osint.herokuapp.com/) | Tools to search for nicknames | 
+| [sherlock](https://github.com/sherlock-project/sherlock) | Tools to search for nicknames |
+| [Osint Namecheckers list](https://github.com/soxoj/osint-namecheckers-list) | A list of tools to search accounts by username | 
 | [Spiderfoot](https://github.com/smicallef/spiderfoot) | SubDomain, Email, URLs Finder |
 | [theHarvester](https://github.com/laramies/theHarvester) | SubDomain, Email, Names Finder |
-| [Recruitin](https://recruitin.net/) |Compiles Google dorks to search on LinkedIn, Dribbble, GitHub, Xing, StackOverflow, Twitter|
+| [Recruitin](https://recruitin.net/) | Compiles Google dorks to search on LinkedIn, Dribbble, GitHub, Xing, StackOverflow, Twitter |
+| [Wayback Machine](https://archive.org/web/) | History of the site |
+| [Wayback Machine](https://archive.org/web/) | History of the site |
