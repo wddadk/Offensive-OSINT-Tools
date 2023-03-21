@@ -59,6 +59,7 @@ This github repository contains links/tools that a cybersec specialist can use i
 | [Search ](https://github.com/pbkompasz/search) | Custom queries in Google |
 | [OSINT-Search](https://github.com/am0nt31r0/OSINT-Search) | Script that searching public data | 
 | [Snoop](https://github.com/snooppr/snoop) | Tools to search for nicknames | 
+| [Socid Extractor](https://github.com/soxoj/socid-extractor) | Extract accounts info from personal pages on various sites for OSINT purpose | 
 | [blackbird-osin](https://blackbird-osint.herokuapp.com/) | Tools to search for nicknames | 
 | [sherlock](https://github.com/sherlock-project/sherlock) | Tools to search for nicknames |
 | [Osint Namecheckers list](https://github.com/soxoj/osint-namecheckers-list) | A list of tools to search accounts by username | 
