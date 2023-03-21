@@ -12,7 +12,8 @@ This github repository contains links/tools that a cybersec specialist can use i
 | [Fofa](https://fofa.info/) | Search Engine |
 | [binaryedge](https://app.binaryedge.io/) | Search Engine |
 | [fullhunt.io](https://fullhunt.io/) | Search Engine |
-| [Hunter.io](https://hunter.io/)   | Email address finder | 
+| [Hunter.io](https://hunter.io/)   | Email finder | 
+| [Snov.io](https://hunter.io/)   | Names, Email finder | 
 | [Grep.app](https://grep.app/)   | GitHub Dorks | 
 | [Searchcode](https://searchcode.com/)   | Search code on different sites  | 
 | [Crt.sh](https://crt.sh/)   | SubDomain Finder | 
@@ -21,7 +22,7 @@ This github repository contains links/tools that a cybersec specialist can use i
 | [shrewdeye.app](https://shrewdeye.app)  | SubDomain, URL Finder |
 | [DnsDumpster](https://dnsdumpster.com/)   | SubDomain Finder | 
 | [VirusTotal](https://www.virustotal.com/gui/home/search) | SubDomain Finder |
-| [phonebook](https://phonebook.cz/) | SubDomain, Emails, URLs Finder  |
+| [phonebook](https://phonebook.cz/) | SubDomain, Email, URLs Finder  |
 | [gau](https://github.com/lc/gau) | URLs Finder |
 | [Ahmia.fi](https://ahmia.fi/)   | Searches hidden services on the Tor network | 
 | [Intelx.io](https://intelx.io/)   | Intelligence | 
@@ -57,6 +58,6 @@ This github repository contains links/tools that a cybersec specialist can use i
 | [Search ](https://github.com/pbkompasz/search) | Custom queries in Google |
 | [OSINT-Search](https://github.com/am0nt31r0/OSINT-Search) | Script that searching public data | 
 | [Snoop](https://github.com/snooppr/snoop) | Tools to search for nicknames | 
-| [Spiderfoot](https://github.com/smicallef/spiderfoot) | SubDomain, Emails, URLs Finder |
-| [theHarvester](https://github.com/laramies/theHarvester) | SubDomain, Emails, Names Finder |
+| [Spiderfoot](https://github.com/smicallef/spiderfoot) | SubDomain, Email, URLs Finder |
+| [theHarvester](https://github.com/laramies/theHarvester) | SubDomain, Email, Names Finder |
 | [Recruitin](https://recruitin.net/) |Compiles Google dorks to search on LinkedIn, Dribbble, GitHub, Xing, StackOverflow, Twitter|
