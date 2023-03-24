@@ -31,6 +31,7 @@ This github repository contains links/tools that a cybersec specialist can use i
 | [Securitytrails](https://securitytrails.com/)   | Intelligence | 
 | [ti.defender.microsoft](https://ti.defender.microsoft.com/)   | Intelligence | 
 | [pulsedive.com](https://pulsedive.com/)   | Intelligence |
+| [threatbook.io](https://threatbook.io/)   | Intelligence |
 | [Alienvault](https://otx.alienvault.com/)   | Intelligence | 
 | [publicwww](https://publicwww.com/)   | Source Code Search Engine | 
 | [bgp.he.net](https://bgp.he.net/)   | Network Info | 
