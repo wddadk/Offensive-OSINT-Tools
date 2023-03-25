@@ -14,6 +14,8 @@ This github repository contains links/tools that a cybersec specialist can use i
 | [fullhunt.io](https://fullhunt.io/) | Search Engine |
 | [netlas.io](https://app.netlas.io/) | Search Engine |
 | [quake.360.net](https://quake.360.net/quake/#/index) | Search Engine |
+| [Criminalip.io](https://www.criminalip.io/) | Search Engine |
+| [Synapsint.com](https://synapsint.com/) | Search Engine |
 | [Hunter.io](https://hunter.io/)   | Email finder | 
 | [Snov.io](https://snov.io/)   | Names, Email finder | 
 | [Grep.app](https://grep.app/)   | GitHub Dorks | 
