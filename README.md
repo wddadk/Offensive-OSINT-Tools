@@ -73,4 +73,3 @@ This github repository contains links/tools that a cybersec specialist can use i
 | [theHarvester](https://github.com/laramies/theHarvester) | SubDomain, Email, Names Finder |
 | [Recruitin](https://recruitin.net/) | Compiles Google dorks to search on LinkedIn, Dribbble, GitHub, Xing, StackOverflow, Twitter |
 | [Wayback Machine](https://archive.org/web/) | History of the site |
-| [Wayback Machine](https://archive.org/web/) | History of the site |
