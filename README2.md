@@ -22,3 +22,26 @@ Description
 - [Nickname search](#-nickname-search)
 
 ## [↑](#-Table-of-Contents) Search Engines
+
+
+
+
+
+
+
+## Search Engine
+## Emails collector
+## GitHub Dorks
+## References in the code
+## SubDomain collector
+## URL collerctor
+## Search for hidden services on Tor
+## Intelligence
+## Network Info
+## DnsHistory
+## FTP servers
+## Passive Infrastructure scanner
+## Microsoft Excange 
+## Telegram
+## Google Dorks
+## Nickname search
