@@ -79,6 +79,7 @@ Tools for automatic search of subdomains. Most of them require API keys to work 
 * [Amass](https://github.com/OWASP/Amass)
 * [theHarvester](https://github.com/laramies/theHarvester)
 * [Spiderfoot](https://github.com/smicallef/spiderfoot)
+* [SubGPT](https://github.com/s0md3v/SubGPT) - SubGPT looks at subdomains you have already discovered for a domain and uses BingGPT to find more.
 * [alterx](https://github.com/projectdiscovery/alterx) - Fast and customizable subdomain wordlist generator using DSL.
 
 *Only sites/tools whose search is not automated by the tools above are listed here.*
