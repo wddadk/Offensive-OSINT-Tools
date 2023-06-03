@@ -1,6 +1,8 @@
 # Offensive-OSINT-Tools
 
-This repository consists of tools/links that a expert can use during Pentest/RedTeam. If the tool performs multiple functions, for example collecting subdomains **and** URLs, it will be listed in two places.
+This repository consists of tools/links that a expert can use during Pentest/RedTeam. At the moment there are a huge number of awesome lists that contain a ton of tools, but the Offensive specialist most often doesn't need them, which is what motivated the creation of this list. These tools cover almost all the needs of the Offensive specialist and will help you get the job done well. 
+
+If the tool performs multiple functions, for example collecting subdomains **and** URLs, it will be listed in two places.
 
 ## 📖 Table of Contents
 
