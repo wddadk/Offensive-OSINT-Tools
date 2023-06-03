@@ -207,6 +207,11 @@ Nickname search tools.
 
 [Gasmask](https://github.com/twelvesec/gasmask)
 
+## Todo
+
+* Add mobile number analysis tools (put into a category)
+* Make a mindmap
+
 ## Warning
 
 Some of the sites included might require registration or offer more data for $$$, but you should be able to get at least a portion of the available information for no cost.
