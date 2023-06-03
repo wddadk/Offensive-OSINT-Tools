@@ -8,7 +8,7 @@ This repository consists of tools/links that a expert can use during Pentest/Red
 - [Emails collector](#-emails-collector)
 - [References in the code](#-references-in-the-code)
 - [SubDomain collector](#-subdomain-collector)
-- [URL collerctor](#-url-collerctor)
+- [URL](#-url)
 - [Tor](#-tor)
 - [Intelligence](#-intelligence)
 - [Network Info](#-network-info)
@@ -20,6 +20,10 @@ This repository consists of tools/links that a expert can use during Pentest/Red
 - [Google Dorks](#-google-dorks)
 - [Nickname search](#-nickname-search)
 - [Cloud](#-cloud)
+
+## [↑](#-Table-of-Contents) Contributing 
+
+**Welcome!** If you find that any of your favourite offensive tools is not on the list, you can suggest adding it. 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## [↑](#-Table-of-Contents) Search Engines
@@ -89,14 +93,15 @@ Tools for automatic search of subdomains. Most of them require API keys to work 
 * [Phonebook](https://phonebook.cz/)
 * [Nmmapper](https://nmmapper.com/)
 
-## [↑](#-Table-of-Contents) URL collerctor
+## [↑](#-Table-of-Contents) URL
 
-Tools for passive collection of URLs for their subsequent analysis.
+Tools for passive collection and analysis URLs
 
 * [Gau](https://github.com/lc/gau)
 * [Waymore](https://github.com/xnl-h4ck3r/waymore)
 * [Spiderfoot](https://github.com/smicallef/spiderfoot)
 * [theHarvester](https://github.com/laramies/theHarvester)
+* [Uscrapper](https://github.com/z0m31en7/Uscrapper) - Tool that allows users to extract various personal information from a website.
 
 ## [↑](#-Table-of-Contents) Tor
 
@@ -195,6 +200,10 @@ Nickname search tools.
 ## [↑](#-Table-of-Contents) Cloud
 
 [Cloud_sherlock](https://github.com/Group-IB/cloud_sherlock)
+
+## [↑](#-Table-of-Contents#) Information gathering tools
+
+[Gasmask](https://github.com/twelvesec/gasmask)
 
 ## Warning
 
