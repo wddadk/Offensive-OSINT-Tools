@@ -168,7 +168,7 @@ Tools for Google Dorks.
 
 * [Pagodo](https://github.com/opsdisk/pagodo)
 * [Google hacking database](https://www.exploit-db.com/google-hacking-database)
-* [](https://recruitin.net/) - Compiles Google dorks to search on LinkedIn, Dribbble, GitHub, Xing, StackOverflow, Twitter
+* [Recruitin](https://recruitin.net/) - Compiles Google dorks to search on LinkedIn, Dribbble, GitHub, Xing, StackOverflow, Twitter
 * [Search](https://github.com/pbkompasz/search) - Custom queries in Google
 
 ## [↑](#-Table-of-Contents) Nickname search
