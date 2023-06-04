@@ -22,6 +22,9 @@ If the tool performs multiple functions, for example collecting subdomains **and
 - [Google Dorks](#-google-dorks)
 - [Nickname search](#-nickname-search)
 - [Cloud](#-cloud)
+- [Information gathering tools](#-information-gathering-tools)
+- [Usefull links](#-usefull-links)
+
 
 ## [↑](#-Table-of-Contents) Contributing 
 
@@ -201,11 +204,20 @@ Nickname search tools.
 
 ## [↑](#-Table-of-Contents) Cloud
 
-[Cloud_sherlock](https://github.com/Group-IB/cloud_sherlock)
+Tools for searching, gathering information from cloud.
+
+* [Cloud_sherlock](https://github.com/Group-IB/cloud_sherlock)
 
 ## [↑](#-Table-of-Contents#) Information gathering tools
 
-[Gasmask](https://github.com/twelvesec/gasmask)
+* [Gasmask](https://github.com/twelvesec/gasmask)
+
+## [↑](-Table-of-Contents) Usefull links
+
+Links to guide, methodologies and any information that would be useful
+
+* [WhereToGo](https://github.com/valeriyshevchenko90/WhereToGo) - list of popular services that might be used in organizations. By having an account of the user - you can try to find entry points to the organization data. #semiosint
+* [](https://github.com/7WaySecurity/cloud_osint) - Repository with informtion related to Cloud Osint
 
 ## Todo
 
