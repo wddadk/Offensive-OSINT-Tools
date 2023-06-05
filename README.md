@@ -217,7 +217,7 @@ Tools for searching, gathering information from cloud.
 Links to guide, methodologies and any information that would be useful
 
 * [WhereToGo](https://github.com/valeriyshevchenko90/WhereToGo) - list of popular services that might be used in organizations. By having an account of the user - you can try to find entry points to the organization data. #semiosint
-* [](https://github.com/7WaySecurity/cloud_osint) - Repository with informtion related to Cloud Osint
+* [Cloud OSINT](https://github.com/7WaySecurity/cloud_osint) - Repository with informtion related to Cloud Osint
 
 ## Todo
 
