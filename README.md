@@ -21,6 +21,7 @@ If the tool performs multiple functions, for example collecting subdomains **and
 - [Telegram](#-telegram)
 - [Google Dorks](#-google-dorks)
 - [Nickname search](#-nickname-search)
+- [Wifi](#-wifi)
 - [Cloud](#-cloud)
 - [Information gathering tools](#-information-gathering-tools)
 - [Usefull links](#-usefull-links)
@@ -201,6 +202,10 @@ Nickname search tools.
 * [Sherlock](https://github.com/mesuutt/sherlock)
 * [recon-ng](https://github.com/lanmaster53/recon-ng/)
 * [SocialPath](https://github.com/woj-ciech/SocialPath)
+
+## [↑](#-Table-of-Contents) Wifi
+
+* [3Wifi](https://3wifi.stascorp.com/) - free base of access points
 
 ## [↑](#-Table-of-Contents) Cloud
 
