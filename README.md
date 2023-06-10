@@ -21,6 +21,7 @@ If the tool performs multiple functions, for example collecting subdomains **and
 - [Telegram](#-telegram)
 - [Google Dorks](#-google-dorks)
 - [Nickname search](#-nickname-search)
+- [Phone number](#-phone-number)
 - [Wifi](#-wifi)
 - [Cloud](#-cloud)
 - [Information gathering tools](#-information-gathering-tools)
@@ -204,6 +205,15 @@ Nickname search tools.
 * [recon-ng](https://github.com/lanmaster53/recon-ng/)
 * [SocialPath](https://github.com/woj-ciech/SocialPath)
 
+## [↑](#-Table-of-Contents) Phone number
+
+Sometimes situations happen that require analysing an employee's phone number to get more information.
+
+* [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) + [Web Demo](https://demo.phoneinfoga.crvx.fr/)
+* [GhostTrack](https://github.com/HunxByts/GhostTrack)
+* [Osint.industries](https://osint.industries/)
+* [Emobiletracker](https://www.emobiletracker.com/)
+
 ## [↑](#-Table-of-Contents) Wifi
 
 * [3Wifi](https://3wifi.stascorp.com/) - free base of access points
@@ -217,6 +227,8 @@ Tools for searching, gathering information from cloud.
 ## [↑](#-Table-of-Contents#) Information gathering tools
 
 * [Gasmask](https://github.com/twelvesec/gasmask)
+* [Th3inspector](https://github.com/Moham3dRiahi/Th3inspector)
+* [Cylect.io](https://cylect.io/)
 
 ## [↑](-Table-of-Contents) Usefull links
 
