@@ -224,7 +224,7 @@ Tools for searching, gathering information from cloud.
 
 * [Cloud_sherlock](https://github.com/Group-IB/cloud_sherlock)
 
-## [↑](#-Table-of-Contents#) Information gathering tools
+## [↑](#-Table-of-Contents) Information gathering tools
 
 * [Gasmask](https://github.com/twelvesec/gasmask)
 * [Th3inspector](https://github.com/Moham3dRiahi/Th3inspector)
