@@ -71,6 +71,7 @@ Tools that help you collect email addresses. Usually the search requires the dom
 * [Signalhire](https://www.signalhire.com/)
 * [Rocketreach](https://rocketreach.co/)
 * [Infoga](https://github.com/m4ll0k/Infoga)
+* [Rextracter.streamlit](https://rextracter.streamlit.app/) - Gathers links and analyses content
 
 ## [↑](#-Table-of-Contents) References in the code
 
@@ -109,6 +110,7 @@ Tools for passive collection and analysis URLs
 * [Waymore](https://github.com/xnl-h4ck3r/waymore)
 * [Spiderfoot](https://github.com/smicallef/spiderfoot)
 * [theHarvester](https://github.com/laramies/theHarvester)
+* [Rextracter.streamlit](https://rextracter.streamlit.app/) - Gathers links and analyses content
 * [Uscrapper](https://github.com/z0m31en7/Uscrapper) - Tool that allows users to extract various personal information from a website.
 
 ## [↑](#-Table-of-Contents) Tor
