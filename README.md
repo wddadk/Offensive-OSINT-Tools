@@ -11,7 +11,7 @@ If the tool performs multiple functions, for example collecting subdomains **and
 - [References in the code](#-references-in-the-code)
 - [SubDomain collector](#-subdomain-collector)
 - [URL](#-url)
-- [Tor](#-tor)
+- [Dark Web](#-dark-web)
 - [Intelligence](#-intelligence)
 - [Network Info](#-network-info)
 - [DnsHistory](#-dnshistory)
@@ -113,7 +113,7 @@ Tools for passive collection and analysis URLs
 * [Rextracter.streamlit](https://rextracter.streamlit.app/) - Gathers links and analyses content
 * [Uscrapper](https://github.com/z0m31en7/Uscrapper) - Tool that allows users to extract various personal information from a website.
 
-## [↑](#-Table-of-Contents) Tor
+## [↑](#-Table-of-Contents) Dark web
 
 An undiscovered area, the author is too dumb for that. Will gradually expand.
 
