@@ -91,6 +91,8 @@ Tools for automatic search of subdomains. Most of them require API keys to work 
 * [Amass](https://github.com/OWASP/Amass)
 * [theHarvester](https://github.com/laramies/theHarvester)
 * [Spiderfoot](https://github.com/smicallef/spiderfoot)
+* [subchase](https://github.com/tokiakasu/subchase) - Chase subdomains by parsing the results of Google and Yandex search results
+* [GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz) - Enumerate directories, files, subdomains or parameters without leaving evidence on the target's serve
 * [SubGPT](https://github.com/s0md3v/SubGPT) - SubGPT looks at subdomains you have already discovered for a domain and uses BingGPT to find more.
 * [alterx](https://github.com/projectdiscovery/alterx) - Fast and customizable subdomain wordlist generator using DSL.
 
@@ -110,6 +112,7 @@ Tools for passive collection and analysis URLs
 * [Waymore](https://github.com/xnl-h4ck3r/waymore)
 * [Spiderfoot](https://github.com/smicallef/spiderfoot)
 * [theHarvester](https://github.com/laramies/theHarvester)
+* [GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz) - Enumerate directories, files, subdomains or parameters without leaving evidence on the target's serve
 * [Rextracter.streamlit](https://rextracter.streamlit.app/) - Gathers links and analyses content
 * [Uscrapper](https://github.com/z0m31en7/Uscrapper) - Tool that allows users to extract various personal information from a website.
 
