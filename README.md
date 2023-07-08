@@ -15,6 +15,7 @@ If the tool performs multiple functions, for example collecting subdomains **and
 - [Intelligence](#-intelligence)
 - [Network Info](#-network-info)
 - [DnsHistory](#-dnshistory)
+- [Certifications](#-certifications)
 - [FTP servers](#-ftp-servers)
 - [Passive Infrastructure scanner](#-passive-infrastructure-scanner)
 - [Microsoft Excange](#-microsoft-excange)
@@ -77,8 +78,9 @@ Tools that help you collect email addresses. Usually the search requires the dom
 
 Tools for finding mentions in code. Useful to search for company/company mentions to find passwords/secrets/confidential information.
 
-* [Searchcode](https://searchcode.com/)
 * [Publicwww](https://publicwww.com/)
+* [Nerdydata](https://www.nerdydata.com/)
+* [Searchcode](https://searchcode.com/)
 * [Grep.app](https://grep.app/)
 
 ## [↑](#-Table-of-Contents) SubDomain collector
@@ -152,7 +154,9 @@ Tools for viewing the DNS history of a domain.
 * [Viewdns](https://viewdns.info/)
 * [TI.defender.microsoft](https://ti.defender.microsoft.com/)
 * [Securitytrails](https://securitytrails.com/)
+## [](#-Table-of-Contents) Certifications
 
+* [Crt.sh](https://crt.sh/)
 
 ## [↑](#-Table-of-Contents) FTP servers
 
