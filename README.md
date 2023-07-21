@@ -140,7 +140,9 @@ Threat Intelligence tools containing extensive company information, subdomains, 
 IP/Domain network analysis tools.
 
 * [Bgp.he](https://bgp.he.net/)
+* [whoistory](http://whoistory.com/)
 * [Asnlookup](https://asnlookup.com/)
+* [centralops](http://centralops.net/)
 * [Bgp.tools](https://bgp.tools/)
 * [Myip](https://myip.ms/)
 * [IpInfo](https://ipinfo.io/) | [Cmd version](https://github.com/ipinfo/cli)
