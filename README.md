@@ -110,6 +110,7 @@ Tools for automatic search of subdomains. Most of them require API keys to work 
 Tools for passive collection and analysis URLs
 
 * [Gau](https://github.com/lc/gau)
+* [Xurlfind3r](https://github.com/hueristiq/xurlfind3r)
 * [Unja](https://github.com/ninjhacks/unja)
 * [Waymore](https://github.com/xnl-h4ck3r/waymore)
 * [Spiderfoot](https://github.com/smicallef/spiderfoot)
