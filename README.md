@@ -29,12 +29,12 @@ If the tool performs multiple functions, for example collecting subdomains **and
 - [Usefull links](#-usefull-links)
 
 
-## [↑](#-Table-of-Contents) Contributing 
+## [↑](#-table-of-contents) Contributing 
 
 **Welcome!** If you find that any of your favourite offensive tools is not on the list, you can suggest adding it. 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## [↑](#-Table-of-Contents) Search Engines
+## [↑](#-table-of-contents) Search Engines
 
 Search Engines for Investigation Domains/IP Addresses.
 
@@ -54,7 +54,7 @@ Search Engines for Investigation Domains/IP Addresses.
 * [Leakix](https://leakix.net/)
 
 
-## [↑](#-Table-of-Contents) Emails collector
+## [↑](#-table-of-contents) Emails collector
 
 Tools that help you collect email addresses. Usually the search requires the domain of the company.
 
@@ -74,7 +74,7 @@ Tools that help you collect email addresses. Usually the search requires the dom
 * [Infoga](https://github.com/m4ll0k/Infoga)
 * [Rextracter.streamlit](https://rextracter.streamlit.app/) - Gathers links and analyses content
 
-## [↑](#-Table-of-Contents) References in the code
+## [↑](#-table-of-contents) References in the code
 
 Tools for finding mentions in code. Useful to search for company/company mentions to find passwords/secrets/confidential information.
 
@@ -83,7 +83,7 @@ Tools for finding mentions in code. Useful to search for company/company mention
 * [Searchcode](https://searchcode.com/)
 * [Grep.app](https://grep.app/)
 
-## [↑](#-Table-of-Contents) SubDomain collector
+## [↑](#-table-of-contents) SubDomain collector
 
 Tools for automatic search of subdomains. Most of them require API keys to work correctly.
 
@@ -105,7 +105,7 @@ Tools for automatic search of subdomains. Most of them require API keys to work 
 * [Phonebook](https://phonebook.cz/)
 * [Nmmapper](https://nmmapper.com/)
 
-## [↑](#-Table-of-Contents) URL
+## [↑](#-table-of-contents) URL
 
 Tools for passive collection and analysis URLs
 
@@ -119,13 +119,13 @@ Tools for passive collection and analysis URLs
 * [Rextracter.streamlit](https://rextracter.streamlit.app/) - Gathers links and analyses content
 * [Uscrapper](https://github.com/z0m31en7/Uscrapper) - Tool that allows users to extract various personal information from a website.
 
-## [↑](#-Table-of-Contents) Dark web
+## [↑](#-table-of-contents) Dark web
 
 An undiscovered area, the author is too dumb for that. Will gradually expand.
 
 * [Ahmia](https://ahmia.fi/)
 
-## [↑](#-Table-of-Contents) Intelligence
+## [↑](#-table-of-contents) Intelligence
 
 Threat Intelligence tools containing extensive company information, subdomains, DNS information, URLs and much more.  
 
@@ -136,7 +136,7 @@ Threat Intelligence tools containing extensive company information, subdomains, 
 * [Alienvault](https://otx.alienvault.com/)
 
 
-## [↑](#-Table-of-Contents) Network Info
+## [↑](#-table-of-contents) Network Info
 
 IP/Domain network analysis tools.
 
@@ -149,7 +149,7 @@ IP/Domain network analysis tools.
 * [IpInfo](https://ipinfo.io/) | [Cmd version](https://github.com/ipinfo/cli)
 * [Whoisxmlapi](https://main.whoisxmlapi.com/)
 
-## [↑](#-Table-of-Contents) DnsHistory
+## [↑](#-table-of-contents) DnsHistory
 
 Tools for viewing the DNS history of a domain.
 
@@ -157,18 +157,18 @@ Tools for viewing the DNS history of a domain.
 * [Viewdns](https://viewdns.info/)
 * [TI.defender.microsoft](https://ti.defender.microsoft.com/)
 * [Securitytrails](https://securitytrails.com/)
-## [](#-Table-of-Contents) Certifications
+## [](#-table-of-contents) Certifications
 
 * [Crt.sh](https://crt.sh/)
 * [Web-check](https://github.com/Lissy93/web-check) + [Web version](https://web-check.as93.net/)
 
-## [↑](#-Table-of-Contents) FTP servers
+## [↑](#-table-of-contents) FTP servers
 
 Tools allowing you to search for and download files located on public FTP servers. 
 
 * [Searchftps](https://www.searchftps.net/)
 
-## [↑](#-Table-of-Contents) Passive Infrastructure scanner
+## [↑](#-table-of-contents) Passive Infrastructure scanner
 
 Tools for automated passive IP address/subnet scanning.
 
@@ -176,19 +176,19 @@ Tools for automated passive IP address/subnet scanning.
 * [Nmap-censys](https://github.com/censys/nmap-censys)
 
 
-## [↑](#-Table-of-Contents) Microsoft Excange 
+## [↑](#-table-of-contents) Microsoft Excange 
 
 Tools to help with passive/semi-passive analysis of Microsoft Excgange.
 
 * [ExchangeFinder](https://github.com/mhaskar/ExchangeFinder) | #SemiOSINT
 
-## [↑](#-Table-of-Contents) Telegram
+## [↑](#-table-of-contents) Telegram
 
 Tools for investigating Telegram chats.
 
 * [Telepathy](https://github.com/jordanwildon/Telepathy)
 
-## [↑](#-Table-of-Contents) Google Dorks
+## [↑](#-table-of-contents) Google Dorks
 
 Tools for Google Dorks.
 
@@ -197,7 +197,7 @@ Tools for Google Dorks.
 * [Recruitin](https://recruitin.net/) - Compiles Google dorks to search on LinkedIn, Dribbble, GitHub, Xing, StackOverflow, Twitter
 * [Search](https://github.com/pbkompasz/search) - Custom queries in Google
 
-## [↑](#-Table-of-Contents) Nickname search
+## [↑](#-table-of-contents) Nickname search
 
 Nickname search tools.
 
@@ -218,7 +218,7 @@ Nickname search tools.
 * [recon-ng](https://github.com/lanmaster53/recon-ng/)
 * [SocialPath](https://github.com/woj-ciech/SocialPath)
 
-## [↑](#-Table-of-Contents) Phone number
+## [↑](#-table-of-contents) Phone number
 
 Sometimes situations happen that require analysing an employee's phone number to get more information.
 
@@ -227,23 +227,23 @@ Sometimes situations happen that require analysing an employee's phone number to
 * [Osint.industries](https://osint.industries/)
 * [Emobiletracker](https://www.emobiletracker.com/)
 
-## [↑](#-Table-of-Contents) Wifi
+## [↑](#-table-of-contents) Wifi
 
 * [3Wifi](https://3wifi.stascorp.com/) - free base of access points
 
-## [↑](#-Table-of-Contents) Cloud
+## [↑](#-table-of-contents) Cloud
 
 Tools for searching, gathering information from cloud.
 
 * [Cloud_sherlock](https://github.com/Group-IB/cloud_sherlock)
 
-## [↑](#-Table-of-Contents) Information gathering tools
+## [↑](#-table-of-contents) Information gathering tools
 
 * [Gasmask](https://github.com/twelvesec/gasmask)
 * [Th3inspector](https://github.com/Moham3dRiahi/Th3inspector)
 * [Cylect.io](https://cylect.io/)
 
-## [↑](-Table-of-Contents) Usefull links
+## [↑](-table-of-contents) Usefull links
 
 Links to guide, methodologies and any information that would be useful.
 
