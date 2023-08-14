@@ -89,6 +89,7 @@ Tools for automatic search of subdomains. Most of them require API keys to work 
 
 ### Tools
 * [Bbot](https://github.com/blacklanternsecurity/bbot)
+* [sub.Monitor](https://github.com/e1abrador/sub.Monitor) - Passive subdomain continous monitoring tool
 * [Sudomy](https://github.com/screetsec/Sudomy)
 * [Amass](https://github.com/OWASP/Amass)
 * [theHarvester](https://github.com/laramies/theHarvester)
