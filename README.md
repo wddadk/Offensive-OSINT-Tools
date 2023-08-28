@@ -54,7 +54,7 @@ Search Engines for Investigation Domains/IP Addresses.
 * [Leakix](https://leakix.net/)
 
 
-## [↑](#-table-of-contents) Emails collector / analyze
+## [↑](#-table-of-contents) Emails collector
 
 Tools that help you collect email addresses. Usually the search requires the domain of the company.
 
