@@ -54,7 +54,7 @@ Search Engines for Investigation Domains/IP Addresses.
 * [Leakix](https://leakix.net/)
 
 
-## [↑](#-table-of-contents) Emails collector
+## [↑](#-table-of-contents) Emails collector / analyze
 
 Tools that help you collect email addresses. Usually the search requires the domain of the company.
 
@@ -71,6 +71,7 @@ Tools that help you collect email addresses. Usually the search requires the dom
 * [Skymem](https://www.skymem.info/)
 * [Signalhire](https://www.signalhire.com/)
 * [Rocketreach](https://rocketreach.co/)
+* [Eyes](https://github.com/N0rz3/Eyes) - Email osint tool
 * [Infoga](https://github.com/m4ll0k/Infoga)
 * [Rextracter.streamlit](https://rextracter.streamlit.app/) - Gathers links and analyses content
 
