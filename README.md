@@ -99,6 +99,7 @@ Tools for automatic search of subdomains. Most of them require API keys to work 
 * [GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz) - Enumerate directories, files, subdomains or parameters without leaving evidence on the target's serve
 * [SubGPT](https://github.com/s0md3v/SubGPT) - SubGPT looks at subdomains you have already discovered for a domain and uses BingGPT to find more.
 * [alterx](https://github.com/projectdiscovery/alterx) - Fast and customizable subdomain wordlist generator using DSL.
+* [Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
 
 *Only sites/tools whose search is not automated by the tools above are listed here.*
 * [TI.defender.microsoft](https://ti.defender.microsoft.com/)
