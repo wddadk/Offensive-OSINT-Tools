@@ -18,7 +18,7 @@ If the tool performs multiple functions, for example collecting subdomains **and
 - [Certifications](#-certifications)
 - [FTP servers](#-ftp-servers)
 - [Passive Infrastructure scanner](#-passive-infrastructure-scanner)
-- [Microsoft Excange](#-microsoft-excange)
+- [Microsoft Exchange](#-microsoft-exchange)
 - [Telegram](#-telegram)
 - [Google Dorks](#-google-dorks)
 - [Nickname search](#-nickname-search)
@@ -75,7 +75,7 @@ Tools that help you collect email addresses. Usually the search requires the dom
 * [Infoga](https://github.com/m4ll0k/Infoga)
 * [Rextracter.streamlit](https://rextracter.streamlit.app/) - Gathers links and analyses content
 
-## [↑](#-table-of-contents) References in the code
+## [↑](#-table-of-contents) Source code
 
 Tools for finding mentions in code. Useful to search for company/company mentions to find passwords/secrets/confidential information.
 
@@ -180,9 +180,9 @@ Tools for automated passive IP address/subnet scanning.
 * [Nmap-censys](https://github.com/censys/nmap-censys)
 
 
-## [↑](#-table-of-contents) Microsoft Excange 
+## [↑](#-table-of-contents) Microsoft Exchange 
 
-Tools to help with passive/semi-passive analysis of Microsoft Excgange.
+Tools that help in passive/semi-passive analysis of Microsoft Exchange.
 
 * [ExchangeFinder](https://github.com/mhaskar/ExchangeFinder) | #SemiOSINT
 
