@@ -8,7 +8,7 @@ If the tool performs multiple functions, for example collecting subdomains **and
 
 - [Search Engines](#-search-engines)
 - [Emails collector](#-emails-collector)
-- [References in the code](#-references-in-the-code)
+- [Source code](#-source-code)
 - [SubDomain collector](#-subdomain-collector)
 - [URL](#-url)
 - [Dark Web](#-dark-web)
