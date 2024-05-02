@@ -61,18 +61,19 @@ Tools that help you collect email addresses. Usually the search requires the dom
 * [Hunter.io](https://hunter.io/)
 * [Snov.io](https://snov.io/)
 * [Phonebook](https://phonebook.cz/)
-* [Poastal](https://github.com/jakecreps/poastal) - Tool that provides valuable information on any email address
-* [Email-format](https://www.email-format.com/) - Analyses the company's mail format.
-* [h8mail](https://github.com/khast3x/h8mail) - Email OSINT & Password breach hunting tool
-* [EmailFinder](https://github.com/Josue87/EmailFinder) - Search emails from a domain through search engines
-* [theHarvester](https://github.com/laramies/theHarvester)
-* [Anymailfinder](https://anymailfinder.com/) - Find Verified Emails
+* [findemail.io](https://findemail.io/)
 * [Omail](https://omail.io/leads/download.html)
 * [Skymem](https://www.skymem.info/)
 * [Signalhire](https://www.signalhire.com/)
 * [Rocketreach](https://rocketreach.co/)
 * [Eyes](https://github.com/N0rz3/Eyes) - Email osint tool
 * [Infoga](https://github.com/m4ll0k/Infoga)
+* * [Poastal](https://github.com/jakecreps/poastal) - Tool that provides valuable information on any email address
+* [Email-format](https://www.email-format.com/) - Analyses the company's mail format.
+* [h8mail](https://github.com/khast3x/h8mail) - Email OSINT & Password breach hunting tool
+* [EmailFinder](https://github.com/Josue87/EmailFinder) - Search emails from a domain through search engines
+* [theHarvester](https://github.com/laramies/theHarvester)
+* [Anymailfinder](https://anymailfinder.com/) - Find Verified Emails
 * [Rextracter.streamlit](https://rextracter.streamlit.app/) - Gathers links and analyses content
 
 ## [↑](#-table-of-contents) Source code
