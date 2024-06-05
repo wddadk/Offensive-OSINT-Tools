@@ -222,6 +222,7 @@ Nickname search tools.
 * [Sherlock](https://github.com/mesuutt/sherlock)
 * [recon-ng](https://github.com/lanmaster53/recon-ng/)
 * [SocialPath](https://github.com/woj-ciech/SocialPath)
+* [Castrick](https://castrickclues.com/)
 
 ## [↑](#-table-of-contents) Phone number
 
@@ -231,6 +232,7 @@ Sometimes situations happen that require analysing an employee's phone number to
 * [GhostTrack](https://github.com/HunxByts/GhostTrack)
 * [Osint.industries](https://osint.industries/)
 * [Emobiletracker](https://www.emobiletracker.com/)
+* [Castrick](https://castrickclues.com/)
 
 ## [↑](#-table-of-contents) Wifi
 
