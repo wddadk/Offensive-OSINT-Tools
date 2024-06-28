@@ -7,7 +7,7 @@ If the tool performs multiple functions, for example collecting subdomains **and
 ## 📖 Table of Contents
 
 - [Search Engines](#-search-engines)
-- [Email addresses](#-email0addresses)
+- [Email addresses](#-email-addresses)
 - [Source code](#-source-code)
 - [SubDomain's](#-subdomains)
 - [URL](#-url)
