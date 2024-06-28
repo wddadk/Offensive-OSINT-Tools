@@ -9,7 +9,7 @@ If the tool performs multiple functions, for example collecting subdomains **and
 - [Search Engines](#-search-engines)
 - [Email addresses](#-email0addresses)
 - [Source code](#-source-code)
-- [SubDomain collector](#-subdomain-collector)
+- [SubDomain's](#-subdomains)
 - [URL](#-url)
 - [Dark Web](#-dark-web)
 - [Intelligence](#-intelligence)
@@ -85,7 +85,7 @@ Tools for finding mentions in code. Useful to search for company/company mention
 * [Searchcode](https://searchcode.com/)
 * [Grep.app](https://grep.app/)
 
-## [↑](#-table-of-contents) SubDomain collector
+## [↑](#-table-of-contents) SubDomain's
 
 Tools for automatic search of subdomains. Most of them require API keys to work correctly.
 
