@@ -7,7 +7,7 @@ If the tool performs multiple functions, for example collecting subdomains **and
 ## 📖 Table of Contents
 
 - [Search Engines](#-search-engines)
-- [Emails collector](#-emails-collector)
+- [Email addresses](#-email0addresses)
 - [Source code](#-source-code)
 - [SubDomain collector](#-subdomain-collector)
 - [URL](#-url)
@@ -54,7 +54,7 @@ Search Engines for Investigation Domains/IP Addresses.
 * [Leakix](https://leakix.net/)
 
 
-## [↑](#-table-of-contents) Emails collector
+## [↑](#-table-of-contents) Email addresses
 
 Tools that help you collect email addresses. Usually the search requires the domain of the company.
 
