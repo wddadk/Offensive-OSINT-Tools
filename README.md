@@ -68,7 +68,7 @@ Tools that help you collect email addresses. Usually the search requires the dom
 * [Rocketreach](https://rocketreach.co/)
 * [Eyes](https://github.com/N0rz3/Eyes) - Email osint tool
 * [Infoga](https://github.com/m4ll0k/Infoga)
-* * [Poastal](https://github.com/jakecreps/poastal) - Tool that provides valuable information on any email address
+* [Poastal](https://github.com/jakecreps/poastal) - Tool that provides valuable information on any email address
 * [Email-format](https://www.email-format.com/) - Analyses the company's mail format.
 * [h8mail](https://github.com/khast3x/h8mail) - Email OSINT & Password breach hunting tool
 * [EmailFinder](https://github.com/Josue87/EmailFinder) - Search emails from a domain through search engines
