@@ -75,6 +75,7 @@ Tools that help you collect email addresses. Usually the search requires the dom
 * [theHarvester](https://github.com/laramies/theHarvester)
 * [Anymailfinder](https://anymailfinder.com/) - Find Verified Emails
 * [Rextracter.streamlit](https://rextracter.streamlit.app/) - Gathers links and analyses content
+* [ronin-recon](https://github.com/ronin-rb/ronin-recon#readme) - Recursive recon engine and framework that can enumerate subdomains, DNS records, port scan, grab TLS certs, spider websites, and collect email addresses.
 
 ## [↑](#-table-of-contents) Source code
 
@@ -101,6 +102,7 @@ Tools for automatic search of subdomains. Most of them require API keys to work 
 * [SubGPT](https://github.com/s0md3v/SubGPT) - SubGPT looks at subdomains you have already discovered for a domain and uses BingGPT to find more.
 * [alterx](https://github.com/projectdiscovery/alterx) - Fast and customizable subdomain wordlist generator using DSL.
 * [Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
+* [ronin-recon](https://github.com/ronin-rb/ronin-recon#readme) - Recursive recon engine and framework that can enumerate subdomains, DNS records, port scan, grab TLS certs, spider websites, and collect email addresses.
 
 *Only sites/tools whose search is not automated by the tools above are listed here.*
 * [TI.defender.microsoft](https://ti.defender.microsoft.com/)
@@ -123,6 +125,7 @@ Tools for passive collection and analysis URLs
 * [GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz) - Enumerate directories, files, subdomains or parameters without leaving evidence on the target's serve
 * [Rextracter.streamlit](https://rextracter.streamlit.app/) - Gathers links and analyses content
 * [Uscrapper](https://github.com/z0m31en7/Uscrapper) - Tool that allows users to extract various personal information from a website.
+* [ronin-recon](https://github.com/ronin-rb/ronin-recon#readme) - Recursive recon engine and framework that can enumerate subdomains, DNS records, port scan, grab TLS certs, spider websites, and collect email addresses.
 
 ## [↑](#-table-of-contents) Dark web
 
