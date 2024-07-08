@@ -10,7 +10,7 @@ If the tool performs multiple functions, for example collecting subdomains **and
 - [Email addresses](#-email-addresses)
 - [Source code](#-source-code)
 - [SubDomain's](#-subdomains)
-- [URL](#-url)
+- [URLs](#-urls)
 - [Dark Web](#-dark-web)
 - [Intelligence](#-intelligence)
 - [Network Info](#-network-info)
@@ -52,6 +52,7 @@ Search Engines for Investigation Domains/IP Addresses.
 * [Synapsint](https://synapsint.com/)
 * [Natlas](https://natlas.io/)
 * [Leakix](https://leakix.net/)
+* [Dorki.io](https://dorki.io/)
 
 
 ## [↑](#-table-of-contents) Email addresses
@@ -111,7 +112,7 @@ Tools for automatic search of subdomains. Most of them require API keys to work 
 * [Phonebook](https://phonebook.cz/)
 * [Nmmapper](https://nmmapper.com/)
 
-## [↑](#-table-of-contents) URL
+## [↑](#-table-of-contents) URLs
 
 Tools for passive collection and analysis URLs
 
@@ -126,6 +127,7 @@ Tools for passive collection and analysis URLs
 * [Rextracter.streamlit](https://rextracter.streamlit.app/) - Gathers links and analyses content
 * [Uscrapper](https://github.com/z0m31en7/Uscrapper) - Tool that allows users to extract various personal information from a website.
 * [ronin-recon](https://github.com/ronin-rb/ronin-recon#readme) - Recursive recon engine and framework that can enumerate subdomains, DNS records, port scan, grab TLS certs, spider websites, and collect email addresses.
+* [Ominis-Osint](https://github.com/AnonCatalyst/Ominis-Osint) - The tool extracts relevant information such as titles, URLs, and potential mentions of the query in the results.
 
 ## [↑](#-table-of-contents) Dark web
 
