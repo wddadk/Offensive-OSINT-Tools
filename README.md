@@ -105,6 +105,7 @@ Tools for automatic search of subdomains. Most of them require API keys to work 
 * [alterx](https://github.com/projectdiscovery/alterx) - Fast and customizable subdomain wordlist generator using DSL.
 * [Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
 * [ronin-recon](https://github.com/ronin-rb/ronin-recon#readme) - Recursive recon engine and framework that can enumerate subdomains, DNS records, port scan, grab TLS certs, spider websites, and collect email addresses.
+* [subdomain-enum](https://github.com/chaitanyakrishna/subdomain-enum) - securitytrails api
 
 *Only sites/tools whose search is not automated by the tools above are listed here.*
 * [TI.defender.microsoft](https://ti.defender.microsoft.com/)
