@@ -165,6 +165,7 @@ IP/Domain network analysis tools.
 
 Tools for viewing the DNS history of a domain.
 
+* [Bigdomaindata](https://bigdomaindata.com)
 * [Dnshistory](https://dnshistory.org/)
 * [Viewdns](https://viewdns.info/)
 * [TI.defender.microsoft](https://ti.defender.microsoft.com/)
