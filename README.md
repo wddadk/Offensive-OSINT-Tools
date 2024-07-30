@@ -241,6 +241,7 @@ Sometimes situations happen that require analysing an employee's phone number to
 * [Osint.industries](https://osint.industries/)
 * [Emobiletracker](https://www.emobiletracker.com/)
 * [Castrick](https://castrickclues.com/)
+* [Predicta Search](https://www.predictasearch.com/)
 
 ## [↑](#-table-of-contents) Wifi
 
