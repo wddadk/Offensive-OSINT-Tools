@@ -113,6 +113,7 @@ Tools for automatic search of subdomains. Most of them require API keys to work 
 * [Shrewdeye](https://shrewdeye.app/)
 * [Phonebook](https://phonebook.cz/)
 * [Nmmapper](https://nmmapper.com/)
+* [subdomainfinder.c99.](https://subdomainfinder.c99.nl/) - A subdomain finder is a tool used to find the subdomains of a given domain.
 
 ## [↑](#-table-of-contents) URLs
 
