@@ -60,6 +60,7 @@ Search Engines for Investigation Domains/IP Addresses.
 
 Tools that help you collect email addresses. Usually the search requires the domain of the company.
 
+* [Prospeo.io](https://app.prospeo.io/domain-search)
 * [Hunter.io](https://hunter.io/)
 * [Snov.io](https://snov.io/)
 * [Phonebook](https://phonebook.cz/)
