@@ -125,6 +125,7 @@ Tools for passive collection and analysis URLs
 * [Gau](https://github.com/lc/gau)
 * [Xurlfind3r](https://github.com/hueristiq/xurlfind3r)
 * [Unja](https://github.com/ninjhacks/unja)
+* [Urlfinder](https://github.com/projectdiscovery/urlfinder)
 * [urlhunter](https://github.com/utkusen/urlhunter) - a recon tool that allows searching on URLs that are exposed via shortener services
 * [Waymore](https://github.com/xnl-h4ck3r/waymore)
 * [Spiderfoot](https://github.com/smicallef/spiderfoot)
