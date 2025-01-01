@@ -79,6 +79,7 @@ Tools that help you collect email addresses. Usually the search requires the dom
 * [Anymailfinder](https://anymailfinder.com/) - Find Verified Emails
 * [Rextracter.streamlit](https://rextracter.streamlit.app/) - Gathers links and analyses content
 * [ronin-recon](https://github.com/ronin-rb/ronin-recon#readme) - Recursive recon engine and framework that can enumerate subdomains, DNS records, port scan, grab TLS certs, spider websites, and collect email addresses.
+* [Osintly](https://osint.ly/) - An all-in-one OSINT platform.
 
 ## [↑](#-table-of-contents) Source code
 
@@ -237,6 +238,7 @@ Nickname search tools.
 * [recon-ng](https://github.com/lanmaster53/recon-ng/)
 * [SocialPath](https://github.com/woj-ciech/SocialPath)
 * [Castrick](https://castrickclues.com/)
+* [Osintly](https://osint.ly/) - All-in-one OSINT platform, specializing in username searches across a wide range of websites and social media platforms.
 
 ## [↑](#-table-of-contents) Phone number
 
