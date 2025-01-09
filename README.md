@@ -77,8 +77,9 @@ Tools that help you collect email addresses. Usually the search requires the dom
 * [EmailFinder](https://github.com/Josue87/EmailFinder) - Search emails from a domain through search engines
 * [theHarvester](https://github.com/laramies/theHarvester)
 * [Anymailfinder](https://anymailfinder.com/) - Find Verified Emails
-* [Rextracter.streamlit](https://rextracter.streamlit.app/) - Gathers links and analyses content
-* [ronin-recon](https://github.com/ronin-rb/ronin-recon#readme) - Recursive recon engine and framework that can enumerate subdomains, DNS records, port scan, grab TLS certs, spider websites, and collect email addresses.
+* [tomba.io](https://tomba.io/) - email finder
+* [contactout.com](https://contactout.com/) - person finder
+* [ronin-recon](https://github.com/ronin-rb/ronin-recon) - Recursive recon engine and framework that can enumerate subdomains, DNS records, port scan, grab TLS certs, spider websites, and collect email addresses.
 
 ## [↑](#-table-of-contents) Source code
 
