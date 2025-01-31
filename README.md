@@ -27,7 +27,7 @@ If the tool performs multiple functions, for example collecting subdomains **and
 - [Wifi](#-wifi)
 - [Cloud](#-cloud)
 - [Information gathering tools](#-information-gathering-tools)
-- [Usefull links](#-usefull-links)
+- [Useful links](#-useful-links)
 
 
 ## [↑](#-table-of-contents) Contributing 
@@ -267,7 +267,7 @@ Tools for searching, gathering information from cloud.
 * [Th3inspector](https://github.com/Moham3dRiahi/Th3inspector)
 * [Cylect.io](https://cylect.io/)
 
-## [↑](-table-of-contents) Usefull links
+## [↑](-table-of-contents) Useful links
 
 Links to guide, methodologies and any information that would be useful.
 
