@@ -244,6 +244,7 @@ Nickname search tools.
 
 Sometimes situations happen that require analysing an employee's phone number to get more information.
 
+* [BuscaPaginasBlancas](https://github.com/GeiserX/BuscaPaginasBlancas) - Python tool for automated lookups on Spanish white pages (PaginasBlancas.es) to find phone numbers and addresses
 * [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) + [Web Demo](https://demo.phoneinfoga.crvx.fr/)
 * [GhostTrack](https://github.com/HunxByts/GhostTrack)
 * [Osint.industries](https://osint.industries/)
