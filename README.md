@@ -9,6 +9,7 @@ If the tool performs multiple functions, for example collecting subdomains **and
 
 - [Search Engines](#-search-engines)
 - [Email addresses](#-email-addresses)
+- [Breaches and Leaks](#-breaches-and-leaks)
 - [Source code](#-source-code)
 - [SubDomain's](#-subdomains)
 - [URLs](#-urls)
@@ -80,6 +81,24 @@ Tools that help you collect email addresses. Usually the search requires the dom
 * [tomba.io](https://tomba.io/) - email finder
 * [contactout.com](https://contactout.com/) - person finder
 * [ronin-recon](https://github.com/ronin-rb/ronin-recon) - Recursive recon engine and framework that can enumerate subdomains, DNS records, port scan, grab TLS certs, spider websites, and collect email addresses.
+
+## [↑](#-table-of-contents) Breaches and Leaks
+
+Tools and search engines for breached login data like usernames and passwords. Most of them require API keys to work correctly.
+
+* [Leaker](https://github.com/vflame6/leaker) - Passive leak enumeration CLI tool that searches across 10+ breach databases simultaneously.
+* [Dehashed](https://www.dehashed.com/) - You can search for your email if its leak in some databases of anything..
+* [HaveIbeenPwned?](https://haveibeenpwned.com/) - check if your email address is in a data breach
+* [Intelligence X](https://intelx.io/) - Intelligence X is a search engine and data archive. · The search works with selectors, i.e. specific search terms such as email addresses, domains, URLs, IPs...
+* [weleakinfo](https://weleakinfo.io/) - We Leak Info - Leaked Dehashed Databases, search for leaks.
+* [breachdirectory](https://breachdirectory.org/) - CHECK IF YOUR EMAIL OR USERNAME WAS COMPROMISED
+* [leakcheck](https://leakcheck.io/) - Find out if your credentials have been compromised
+* [LeakRadar](https://leakradar.io/) - Instant search across 2 B+ plain-text info-stealer credentials; email, domain, metadata queries, monitoring & API
+* [Leak-Lookup](https://leak-lookup.com/) - Data breach search engine with over 3 billion records from 3000+ databases.
+* [BreachDirectory](https://breachdirectory.org/) - Check if your credentials have been compromised in data breaches.
+* [Scylla.so](https://scylla.so/) - Community-driven database breach search engine.
+* [Leaked.domains](https://leaked.domains/) - Search for domain-related leaked credentials and data.
+* [WhiteIntel](https://whiteintel.io/) - Dark web data leak search engine for threat intelligence.
 
 ## [↑](#-table-of-contents) SubDomain's
 
