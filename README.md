@@ -267,6 +267,7 @@ Tools for searching, gathering information from cloud.
 * [Gasmask](https://github.com/twelvesec/gasmask)
 * [Th3inspector](https://github.com/Moham3dRiahi/Th3inspector)
 * [Cylect.io](https://cylect.io/)
+* [Phantom Tide](https://github.com/tg12/phantomtide) - Cross-domain OSINT dashboard for maritime and airspace analysis with vessel tracking, official notices, environmental context, and satellite detections.
 
 ## [↑](-table-of-contents) Useful links
 
