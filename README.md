@@ -90,6 +90,7 @@ Tools for automatic search of subdomains. Most of them require API keys to work 
 * [Subdominator](https://github.com/RevoltSecurities/Subdominator)
 * [sub.Monitor](https://github.com/e1abrador/sub.Monitor) - Passive subdomain continous monitoring tool
 * [Sudomy](https://github.com/screetsec/Sudomy)
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation.
 * [Amass](https://github.com/OWASP/Amass)
 * [theHarvester](https://github.com/laramies/theHarvester)
 * [Spiderfoot](https://github.com/smicallef/spiderfoot)
