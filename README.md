@@ -153,6 +153,7 @@ Threat Intelligence tools containing extensive company information, subdomains, 
 * [Pulsedive](https://pulsedive.com/)
 * [ThreatBook](https://threatbook.io/)
 * [Alienvault](https://otx.alienvault.com/)
+* [DomScan](https://domscan.net/tools/security) - Domain intelligence for DNS, WHOIS/RDAP, TLS, subdomains, reputation, redirects, and typosquatting.
 * [Hudson Rock - Cybercrime Intelligence Tools](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)
 * [LeakRadar](https://leakradar.io)
 
