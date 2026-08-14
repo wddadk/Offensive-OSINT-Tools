@@ -21,6 +21,7 @@ If the tool performs multiple functions, for example collecting subdomains **and
 - [Passive Infrastructure scanner](#-passive-infrastructure-scanner)
 - [Microsoft Exchange](#-microsoft-exchange)
 - [Telegram](#-telegram)
+- [Twitter](#-twitter)
 - [Google Dorks](#-google-dorks)
 - [Nickname search](#-nickname-search)
 - [Phone number](#-phone-number)
@@ -209,6 +210,12 @@ Tools that help in passive/semi-passive analysis of Microsoft Exchange.
 Tools for investigating Telegram chats.
 
 * [Telepathy](https://github.com/jordanwildon/Telepathy)
+
+## [↑](#-table-of-contents) Twitter
+
+Tools for investigating X (Twitter) accounts, posts, and networks.
+
+* [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - X (Twitter) data API for search, follower export, monitors, and confirmation-gated posting.
 
 ## [↑](#-table-of-contents) Google Dorks
 
