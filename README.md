@@ -223,6 +223,8 @@ Tools for Google Dorks.
 
 Nickname search tools.
 
+* [WhatsMyName Apps](https://whatsmynameapps.us/) - Browser-based username search across public websites and social platforms.
+
 * [maigret](https://github.com/soxoj/maigret)
 * [Sherlock](https://github.com/sherlock-project/sherlock)
 * [Social analyzer](https://github.com/qeeqbox/social-analyzer)
