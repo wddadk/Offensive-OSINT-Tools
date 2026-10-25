@@ -169,6 +169,7 @@ IP/Domain network analysis tools.
 * [Myip](https://myip.ms/)
 * [IpInfo](https://ipinfo.io/) | [Cmd version](https://github.com/ipinfo/cli)
 * [Whoisxmlapi](https://main.whoisxmlapi.com/)
+* [CC.LA](https://cc.la) - WHOIS/RDAP lookup, DNS records, name server history, IP WHOIS, SSL certificate search, and network diagnostics.
 
 ## [↑](#-table-of-contents) DnsHistory
 
