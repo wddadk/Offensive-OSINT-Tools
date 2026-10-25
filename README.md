@@ -64,8 +64,6 @@ Tools that help you collect email addresses. Usually the search requires the dom
 * [Hunter.io](https://hunter.io/)
 * [Snov.io](https://snov.io/)
 * [Phonebook](https://phonebook.cz/)
-* ~~[findemail.io](https://findemail.io/)~~  - Not working Seized by FBI + The Federal Criminal Police Offic (Bundeskriminalamt)
-* ~~[Omail](https://omail.io/leads/download.html)~~ - Website not found - redirecting to unkwon url
 * [Skymem](https://www.skymem.info/)
 * [Signalhire](https://www.signalhire.com/)
 * [Rocketreach](https://rocketreach.co/)
