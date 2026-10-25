@@ -64,8 +64,8 @@ Tools that help you collect email addresses. Usually the search requires the dom
 * [Hunter.io](https://hunter.io/)
 * [Snov.io](https://snov.io/)
 * [Phonebook](https://phonebook.cz/)
-* [findemail.io](https://findemail.io/)
-* [Omail](https://omail.io/leads/download.html)
+* ~~[findemail.io](https://findemail.io/)~~  - Not working Seized by FBI + The Federal Criminal Police Offic (Bundeskriminalamt)
+* ~~[Omail](https://omail.io/leads/download.html)~~ - Website not found - redirecting to unkwon url
 * [Skymem](https://www.skymem.info/)
 * [Signalhire](https://www.signalhire.com/)
 * [Rocketreach](https://rocketreach.co/)
@@ -80,6 +80,8 @@ Tools that help you collect email addresses. Usually the search requires the dom
 * [tomba.io](https://tomba.io/) - email finder
 * [contactout.com](https://contactout.com/) - person finder
 * [ronin-recon](https://github.com/ronin-rb/ronin-recon) - Recursive recon engine and framework that can enumerate subdomains, DNS records, port scan, grab TLS certs, spider websites, and collect email addresses.
+* [Emailosint](https://emailosint.org/) - EmailOSINT turns a single email into a full digital profile
+* [Fingerprint-to](https://fingerprint.to/) -  Search Public Profiles Across many Platforms
 
 ## [↑](#-table-of-contents) SubDomain's
 
