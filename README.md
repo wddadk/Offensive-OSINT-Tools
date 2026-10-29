@@ -156,6 +156,8 @@ Threat Intelligence tools containing extensive company information, subdomains, 
 * [DomScan](https://domscan.net/tools/security) - Domain intelligence for DNS, WHOIS/RDAP, TLS, subdomains, reputation, redirects, and typosquatting.
 * [Hudson Rock - Cybercrime Intelligence Tools](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)
 * [LeakRadar](https://leakradar.io)
+* [Have I Been Ransomed?](https://haveibeenransom.com/) - Checks whether an email, phone number or company appears in ransomware leaks, stealer logs or traditional breaches. Free web search; the API is paid.
+* [Breach House](https://breach.house/) - Free, open search over ransomware leaks, stealer logs, traditional breaches and leads, by company, domain or email.
 
 ## [↑](#-table-of-contents) Network Info
 
