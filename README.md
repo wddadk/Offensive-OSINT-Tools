@@ -80,6 +80,7 @@ Tools that help you collect email addresses. Usually the search requires the dom
 * [ronin-recon](https://github.com/ronin-rb/ronin-recon) - Recursive recon engine and framework that can enumerate subdomains, DNS records, port scan, grab TLS certs, spider websites, and collect email addresses.
 * [Emailosint](https://emailosint.org/) - EmailOSINT turns a single email into a full digital profile
 * [Fingerprint-to](https://fingerprint.to/) -  Search Public Profiles Across many Platforms
+* [Opsis](https://useopsis.com/) - Search an email address or username across 1,000+ sites and see which accounts exist
 
 ## [↑](#-table-of-contents) SubDomain's
 
