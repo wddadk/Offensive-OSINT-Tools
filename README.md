@@ -170,6 +170,7 @@ IP/Domain network analysis tools.
 * [IpInfo](https://ipinfo.io/) | [Cmd version](https://github.com/ipinfo/cli)
 * [Whoisxmlapi](https://main.whoisxmlapi.com/)
 * [CC.LA](https://cc.la) - WHOIS/RDAP lookup, DNS records, name server history, IP WHOIS, SSL certificate search, and network diagnostics.
+* [PendingDelete.net](https://pendingdelete.net) - Free daily lists of domains in redemption and pending delete with registry-confirmed drop times, plus WHOIS/RDAP lookups.
 
 ## [↑](#-table-of-contents) DnsHistory
 
