@@ -184,6 +184,7 @@ Tools for viewing the DNS history of a domain.
 
 * [Crt.sh](https://crt.sh/)
 * [Web-check](https://github.com/Lissy93/web-check) + [Web version](https://web-check.as93.net/)
+* [Crt.name] (https://crt.name)
 
 ## [↑](#-table-of-contents) FTP servers
 
