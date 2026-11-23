@@ -197,7 +197,7 @@ Tools for automated passive IP address/subnet scanning.
 
 * [Smap](https://github.com/s0md3v/Smap)
 * [Nmap-censys](https://github.com/censys/nmap-censys)
-
+* [BrandShield](https://brand-checker.appwrite.network/) - Free passive 78-TLD RDAP domain registration, 28-variant DNSTwist lookalike/typosquatting DNS & MX scanner, and developer namespace checker ([open-source CLI](https://github.com/zColdWater/brandshield-cli))
 
 ## [↑](#-table-of-contents) Microsoft Exchange 
 
